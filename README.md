@@ -4,7 +4,7 @@
 - 📚 I’m trying to write some articles on [**Medium**](https://medium.com/@henriquezanferrari)
 - 🎵 Send me some music! I would love to listen to new songs and artists
 
-***
+---
 
 ### Skills  🚀
 
@@ -27,7 +27,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquezanfa&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Henrique's GitHub Stats" />
 </a>
 
-***
+---
 
 ### Me, myself and I 🖐️
 
@@ -39,7 +39,7 @@
   <a href="https://www.instagram.com/henriquezanfa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-***
+---
 
 ### Spotify 🎧
 
